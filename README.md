@@ -8,3 +8,7 @@
 - [云托管](https://developers.weixin.qq.com/miniprogram/dev/wxcloudrun/src/basic/intro.html)
 
 - [微搭低代码](https://cloud.tencent.com/document/product/1301?from=10680)
+
+就比赛来说，需要考虑如下几点
+
+
